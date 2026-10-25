@@ -1,0 +1,26 @@
+samsung.com
+samsungcloud.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungcloudcdn.com
+samsungapps.com
+samsungknox.com
+samsungrs.com
+samsungads.com
+samsungadhub.com
+samsungqbe.com
+samsungacr.com
+samsungrm.net
+samsungelectronics.com
+samsungotn.net
+hiyaapi.com
+secb2b.com
+gos-api.gos-gsp.io
+samsungcloudplatform.com
+
+-------------
+
+Allow list for OS updates (Allow these temporarily to check for and install OS updates, then block them again after the update)
+
+ospserver.net
+samsungcloudsolution.com
